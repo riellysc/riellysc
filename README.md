@@ -3,7 +3,7 @@
 # ❤ Olá, bom ter você por aqui!
 
 
-Estudo desenvolvemento front-end e amo tecnologia
+Estudo desenvolvimento front-end e amo tecnologia
 
 
 
