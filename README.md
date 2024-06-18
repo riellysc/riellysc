@@ -3,8 +3,6 @@
 # ❤ Olá, bom ter você por aqui!
 
 
-Estudo desenvolvimento front-end e amo tecnologia
-
 
 
 - 👩‍💻 Aprendendo algo sobre front-end
